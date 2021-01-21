@@ -80,23 +80,3 @@ namespace Client
     }
 }
 
-
-
-//string text = File.ReadAllText(fname);
-//Console.WriteLine(text);
-//wtr.WriteLine(text);
-//wtr.Flush();
-//Console.WriteLine($"{rdr.ReadLine()}");
-//Console.WriteLine($"{rdr.ReadLine()}");
-
-//if (File.Exists(fname))
-//{
-//    string[] lines = File.ReadAllLines(fname);
-//    foreach (string line in lines)
-//    {
-//        wtr.WriteLine(line);
-//        wtr.Flush();
-//        Console.WriteLine($"{rdr.ReadLine()}");
-//        Console.WriteLine($"{rdr.ReadLine()}");
-//    }
-//}
